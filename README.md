@@ -14,7 +14,7 @@ Many sections in the css that were redundant and using the same codes repeated m
 
 <b>Link to deployed app:</b>
 
-<a href=""></a>
+<a href="https://vilas-izquierdo.github.io/new-horiesons/">Horiesons</a>
 
 <b>Site Preview:</b>
 
